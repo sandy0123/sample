@@ -1,8 +1,4 @@
-
 '''
-Created on Feb 6, 2014
-
-@author: parsa12
 '''
 
 def unique(str):
@@ -23,12 +19,12 @@ def unique(str):
     return True
 
 if __name__ == '__main__':
-    test1="Sandeep"
+    test1="Aakash"
     unique(test1)
     
-    test1 = 'Sandy'
+    test1 = 'Bansal'
     unique(test1)
     
-    test1=" Sand  ep "
+    test1=" Aa kas sh "
     unique(test1)
     
